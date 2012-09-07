@@ -1,11 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://kingliang123.github.com/WorkEnvConfig/blog/archives/</loc>
-        <lastmod>2012-09-07T21:30:05+08:00</lastmod>
+        <loc>http://kingliang123.github.com/blog/2012/09/07/title/</loc>
+        <lastmod>2012-09-07T22:45:47+08:00</lastmod>
     </url>
     <url>
-        <loc>http://kingliang123.github.com/WorkEnvConfig/</loc>
-        <lastmod>2012-09-07T21:30:05+08:00</lastmod>
+        <loc>http://kingliang123.github.com/blog/2012/09/07/ninjas/</loc>
+        <lastmod>2012-09-07T22:57:58+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://kingliang123.github.com/super/</loc>
+        <lastmod>2012-09-07T23:04:03+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://kingliang123.github.com/blog/archives/</loc>
+        <lastmod>2012-09-07T22:57:58+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://kingliang123.github.com/</loc>
+        <lastmod>2012-09-07T22:57:58+08:00</lastmod>
     </url>
 </urlset>
