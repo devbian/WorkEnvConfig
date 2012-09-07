@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/QMonHand/!svn/ver/59/trunk/QMonHand-IOS/BarCodeScannerCDV/BarcodeScanner/libqrencode
+END
+bitstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/QMonHand/!svn/ver/59/trunk/QMonHand-IOS/BarCodeScannerCDV/BarcodeScanner/libqrencode/bitstream.h
+END
+rscode.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/QMonHand/!svn/ver/59/trunk/QMonHand-IOS/BarCodeScannerCDV/BarcodeScanner/libqrencode/rscode.c
+END
+mask.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/QMonHand/!svn/ver/59/trunk/QMonHand-IOS/BarCodeScannerCDV/BarcodeScanner/libqrencode/mask.h
+END
+qrencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/QMonHand/!svn/ver/59/trunk/QMonHand-IOS/BarCodeScannerCDV/BarcodeScanner/libqrencode/qrencode.c
+END
+split.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/QMonHand/!svn/ver/59/trunk/QMonHand-IOS/BarCodeScannerCDV/BarcodeScanner/libqrencode/split.h
+END
+qrinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/QMonHand/!svn/ver/59/trunk/QMonHand-IOS/BarCodeScannerCDV/BarcodeScanner/libqrencode/qrinput.c
+END
+qrspec.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/QMonHand/!svn/ver/59/trunk/QMonHand-IOS/BarCodeScannerCDV/BarcodeScanner/libqrencode/qrspec.h
+END
+rscode.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/QMonHand/!svn/ver/59/trunk/QMonHand-IOS/BarCodeScannerCDV/BarcodeScanner/libqrencode/rscode.h
+END
+qrencode.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/QMonHand/!svn/ver/59/trunk/QMonHand-IOS/BarCodeScannerCDV/BarcodeScanner/libqrencode/qrencode.h
+END
+qrinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/QMonHand/!svn/ver/59/trunk/QMonHand-IOS/BarCodeScannerCDV/BarcodeScanner/libqrencode/qrinput.h
+END
+bitstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/QMonHand/!svn/ver/59/trunk/QMonHand-IOS/BarCodeScannerCDV/BarcodeScanner/libqrencode/bitstream.c
+END
+mask.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/QMonHand/!svn/ver/59/trunk/QMonHand-IOS/BarCodeScannerCDV/BarcodeScanner/libqrencode/mask.c
+END
+split.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/QMonHand/!svn/ver/59/trunk/QMonHand-IOS/BarCodeScannerCDV/BarcodeScanner/libqrencode/split.c
+END
+qrspec.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/QMonHand/!svn/ver/59/trunk/QMonHand-IOS/BarCodeScannerCDV/BarcodeScanner/libqrencode/qrspec.c
+END
